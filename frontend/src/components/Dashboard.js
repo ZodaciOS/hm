@@ -1,0 +1,1 @@
+// Full dashboard component (you can expand with buttons calling API)
